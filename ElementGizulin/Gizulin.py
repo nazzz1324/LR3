@@ -1,5 +1,5 @@
 class ElementGizulin:
-    def __init__(self, name='Гелий', symbol='He', number='2'):
+    def __init__(self, name='Углерод', symbol='С', number='6'):
         self.__name = name
         self.__symbol = symbol
         self.__number = number
