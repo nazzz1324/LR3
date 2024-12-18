@@ -1,5 +1,5 @@
 class ElementValeev:
-    def __init__(self, name='', symbol='', number=''):
+    def __init__(self, name='Bor', symbol='B', number='5'):
         self.__name = name
         self.__symbol = symbol
         self.__number = number
